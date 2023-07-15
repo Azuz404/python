@@ -1,0 +1,754 @@
+TABLE*Quan huyen
+1$Quận Ba Đình$$0.1$II$1$3/28/2023 8:18:10 AM
+2$Huyện Đan Phượng$$0.12$II$1$3/22/2023 2:15:05 AM
+3$Quận Cầu Giấy$$0.1$II$1$3/22/2023 2:15:05 AM
+4$Huyện Đông Anh$$0.08$II$1$3/22/2023 2:15:05 AM
+5$Quận Đống Đa$$0.1$II$1$3/22/2023 2:15:05 AM
+6$Huyện Gia Lâm$$0.08$II$1$3/22/2023 2:15:05 AM
+7$Quận Hà Đông$$0.12$II$1$3/22/2023 2:15:05 AM
+8$Huyện Hoài Đức$$0.12$II$1$3/22/2023 2:15:05 AM
+9$Quận Hai Bà Trưng$$0.1$II$1$3/22/2023 2:15:05 AM
+10$Huyện Mê Linh$$0.08$II$1$3/22/2023 2:15:05 AM
+11$Quận Hoàn Kiếm$$0.1$II$1$3/22/2023 2:15:05 AM
+12$Huyện Mỹ Đức$xã Đại Hưng, xã Hùng Tiến, xã Hương Sơn, xã Vạn Kim$0.1$III$1$3/28/2023 8:19:36 AM
+13$Huyện Mỹ Đức$các địa danh hành chính còn lại$0.1$II$1$3/28/2023 8:19:36 AM
+14$Quận Hoàng Mai$$0.1$II$1$3/22/2023 2:15:05 AM
+15$Huyện Phúc Thọ$$0.12$II$1$3/22/2023 2:15:05 AM
+16$Quận Long Biên$$0.08$II$1$3/22/2023 2:15:05 AM
+17$Huyện Phú Xuyên$xã Phú Túc, xã Hồng Minh, xã Tri Trung$0.12$II$1$3/28/2023 8:19:39 AM
+18$Huyện Phú Xuyên$các địa danh hành chính còn lại$0.12$III$1$3/28/2023 8:19:40 AM
+19$Quận Tây Hồ$$0.1$II$1$3/22/2023 2:15:05 AM
+20$Huyện Quốc Oai$$0.12$II$1$3/22/2023 2:15:05 AM
+21$Quận Thanh Xuân$$0.12$II$1$3/22/2023 2:15:05 AM
+22$Huyện Sóc Sơn$$0.1$II$1$3/22/2023 2:15:05 AM
+23$Quận Bắc Từ Liêm$$0.12$II$1$3/22/2023 2:15:05 AM
+24$Huyện Thạch Thất$$0.12$II$1$3/22/2023 2:15:05 AM
+25$Quận Nam Từ Liêm$$0.12$II$1$3/22/2023 2:15:05 AM
+26$Huyện Thanh Oai$$0.12$II$1$3/22/2023 2:15:05 AM
+27$Thị xã Sơn Tây$$0.12$II$1$3/22/2023 2:15:05 AM
+28$Huyện Thanh Trì$$0.12$II$1$3/22/2023 2:15:05 AM
+29$Huyện Ba Vì$$0.12$II$1$3/22/2023 2:15:05 AM
+30$Huyện Thường Tín$xã Minh  Cường, xã Thống Nhất, xã Tô Hiệu, xã Vạn Điểm, xã Văn Tự$0.12$III$1$3/28/2023 8:19:55 AM
+31$Huyện Thường Tín$các địa danh hành chính còn lại$0.12$II$1$3/28/2023 8:19:56 AM
+32$Huyện Chương Mỹ$$0.12$II$1$3/22/2023 2:15:05 AM
+33$Huyện Ứng Hòa$thị trấn Vân Đình, xã Quảng Phú Cầu, xã Liên Bạt, xã Đồng Tiến, xã Sơn Công, xã Hoa Sơn, xã Trường Thịnh, xã Viên Nội, xã Viên An, xã Cao Thành, xã Hoà Xá$0.12$II$1$3/28/2023 8:19:59 AM
+34$Huyện Ứng Hòa$các địa danh hành chính còn lại$0.12$III$1$3/28/2023 8:20:00 AM
+35$Thành phố Thủ Đức$$0.06$II$2$3/22/2023 2:15:05 AM
+36$Quận 11$$0.06$II$2$3/22/2023 2:15:05 AM
+37$Quận 1$$0.06$II$2$3/22/2023 2:15:05 AM
+38$Quận 12$$0.06$II$2$3/22/2023 2:15:05 AM
+39$Quận 3$$0.06$II$2$3/22/2023 2:15:05 AM
+40$Quận Bình Thạnh$$0.06$II$2$3/22/2023 2:15:05 AM
+41$Quận 4$$0.06$II$2$3/22/2023 2:15:05 AM
+42$Quận Bình Tân$$0.06$II$2$3/22/2023 2:15:05 AM
+43$Quận 5$$0.06$II$2$3/22/2023 2:15:05 AM
+44$Quận Gò Vấp$$0.06$II$2$3/22/2023 2:15:05 AM
+45$Quận 6$$0.06$II$2$3/22/2023 2:15:05 AM
+46$Quận Phú Nhuận$$0.06$II$2$3/22/2023 2:15:05 AM
+47$Quận 7$$0.06$II$2$3/22/2023 2:15:05 AM
+48$Quận Tân Bình$$0.06$II$2$3/22/2023 2:15:05 AM
+49$Quận 8$$0.06$II$2$3/22/2023 2:15:05 AM
+50$Quận Tân Phú$$0.06$II$2$3/22/2023 2:15:05 AM
+51$Quận 10$$0.06$II$2$3/22/2023 2:15:05 AM
+52$Huyện Bình Chánh$$0.06$II$2$3/22/2023 2:15:05 AM
+53$Huyện Cần Giờ$$0.06$II$2$3/22/2023 2:15:05 AM
+54$Huyện Hóc Môn$$0.06$II$2$3/22/2023 2:15:05 AM
+55$Huyện Củ Chi$$0.06$I$2$3/22/2023 2:15:05 AM
+56$Huyện Nhà Bè$$0.06$II$2$3/22/2023 2:15:05 AM
+57$Quận Hồng Bàng$$0.14$IV$3$3/22/2023 2:15:05 AM
+58$Huyện An Lão$$0.14$IV$3$3/22/2023 2:15:05 AM
+59$Quận Dương Kinh$$0.12$IV$3$3/22/2023 2:15:05 AM
+60$Huyện Bạch Long Vĩ$$0.04$V$3$3/22/2023 2:15:05 AM
+61$Quận Đồ Sơn$$0.1$IV$3$3/22/2023 2:15:05 AM
+62$Huyện Cát Hải$$0.04$IV$3$3/22/2023 2:15:05 AM
+63$Quận Hải An$$0.14$IV$3$3/22/2023 2:15:05 AM
+64$Huyện Kiến Thụy$$0.12$IV$3$3/22/2023 2:15:05 AM
+65$Quận Kiến An$$0.14$IV$3$3/22/2023 2:15:05 AM
+66$Huyện Thủy Nguyên$$0.12$III$3$3/22/2023 2:15:05 AM
+67$Quận Lê Chân$$0.14$IV$3$3/22/2023 2:15:05 AM
+68$Huyện Tiên Lãng$$0.1$IV$3$3/22/2023 2:15:05 AM
+69$Quận Ngô Quyền$$0.14$IV$3$3/22/2023 2:15:05 AM
+70$Huyện Vĩnh Bảo$$0.08$IV$3$3/22/2023 2:15:05 AM
+71$Huyện An Dương$$0.14$IV$3$3/22/2023 2:15:05 AM
+72$Quận Cẩm Lệ$$0.04$III$4$3/22/2023 2:15:05 AM
+73$Quận Sơn Trà$$0.08$III$4$3/22/2023 2:15:05 AM
+74$Quận Hải Châu$$0.08$III$4$3/22/2023 2:15:05 AM
+75$Quận Thanh Khê$$0.08$III$4$3/22/2023 2:15:05 AM
+76$Quận Liên Chiểu$$0.06$III$4$3/22/2023 2:15:05 AM
+77$Huyện Hòa Vang$xã Hòa Ninh, xã Hòa Phú, xã Hòa Khương$0.04$II$4$3/28/2023 8:33:51 AM
+78$Huyện Hòa Vang$các địa danh hành chính còn lại$0.04$III$4$3/28/2023 8:33:51 AM
+79$Quận Ngũ Hành Sơn$$0.06$III$4$3/22/2023 2:15:05 AM
+80$Huyện Hoàng Sa (quần đảo Hoàng Sa)$$0.04$V$4$3/22/2023 2:15:05 AM
+81$Quận Bình Thủy$$0.04$II$5$3/22/2023 2:15:05 AM
+82$Huyện Cờ Đỏ$$0.02$II$5$3/22/2023 2:15:05 AM
+83$Quận Cái Răng$$0.04$II$5$3/22/2023 2:15:05 AM
+84$Huyện Phong Điền$$0.02$II$5$3/22/2023 2:15:05 AM
+85$Quận Ninh Kiều$$0.04$II$5$3/22/2023 2:15:05 AM
+86$Huyện Thới Lai$$0.02$II$5$3/22/2023 2:15:05 AM
+87$Quận Ô Môn$$0.04$II$5$3/22/2023 2:15:05 AM
+88$Huyện Vĩnh Thạnh$$0.02$II$5$3/22/2023 2:15:05 AM
+89$Quận Thốt Nốt$$0.04$II$5$3/22/2023 2:15:05 AM
+90$Thành phố Long Xuyên$$0.04$I$6$3/22/2023 2:15:05 AM
+91$Huyện An Phú$$0.04$I$6$3/22/2023 2:15:05 AM
+92$Thành phố Châu Đốc$$0.04$I$6$3/22/2023 2:15:05 AM
+93$Huyện Châu Phú$$0.04$I$6$3/22/2023 2:15:05 AM
+94$Thị xã Tân Châu$$0.04$I$6$3/22/2023 2:15:05 AM
+95$Huyện Châu Thành$$0.04$I$6$3/22/2023 2:15:05 AM
+96$Huyện Chợ Mới$$0.04$I$6$3/22/2023 2:15:05 AM
+97$Huyện Tri Tôn$thị trấn Ba Chúc, thị trấn Tri Tôn, xã Châu Lăng, xã Lạc Quới, xã Lê Trì, xã Núi Tô, xã Tà Đảnh$0.02$I$6$3/28/2023 8:33:55 AM
+98$Huyện Tri Tôn$các địa danh hành chính còn lại$0.02$II$6$3/28/2023 8:33:55 AM
+99$Huyện Phú Tân$$0.04$I$6$3/22/2023 2:15:05 AM
+100$Huyện Tịnh Biên$$0.04$I$6$3/22/2023 2:15:05 AM
+101$Huyện Thoại Sơn$thị trấn Phú Hòa, xã Định Mỹ, xã Định Thành, xã Phú Thuận, xã Tây Phú, xã Vĩnh Chánh, xã Vĩnh Phú, xã Vĩnh Trạch$0.02$I$6$3/28/2023 8:33:56 AM
+102$Huyện Thoại Sơn$các địa danh hành chính còn lại$0.02$II$6$3/28/2023 8:33:56 AM
+103$Thành phố Vũng Tàu$$0.04$II$7$3/22/2023 2:15:05 AM
+104$Huyện Đất Đỏ$$0.04$II$7$3/22/2023 2:15:05 AM
+105$Thành phố Bà Rịa$$0.04$II$7$3/22/2023 2:15:05 AM
+106$Huyện Long Điền$$0.04$II$7$3/22/2023 2:15:05 AM
+107$Huyện Châu Đức$$0.02$II$7$3/22/2023 2:15:05 AM
+108$Huyện Tân Thành$$0.04$II$7$3/22/2023 2:15:05 AM
+109$Huyện Côn Đảo$$0.04$III$7$3/22/2023 2:15:05 AM
+110$Huyện Xuyên Mộc$$0.02$II$7$3/22/2023 2:15:05 AM
+111$Thành phố Bạc Liêu$$0.02$II$8$3/22/2023 2:15:05 AM
+112$Huyện Hồng Dân$$0.02$II$8$3/22/2023 2:15:05 AM
+113$Huyện Đông Hải$$0.02$II$8$3/22/2023 2:15:05 AM
+114$Huyện Phước Long$$0.02$II$8$3/22/2023 2:15:05 AM
+115$Huyện Giá Rai$$0.02$II$8$3/22/2023 2:15:05 AM
+116$Huyện Vĩnh Lợi$$0.02$II$8$3/22/2023 2:15:05 AM
+117$Huyện Hòa Bình$$0.02$II$8$3/22/2023 2:15:05 AM
+118$Thành phố Bắc Giang$$0.1$II$9$3/22/2023 2:15:05 AM
+119$Huyện Sơn Động$thị trấn Tây Yên Tử, xã Dương Hưu, xã Long Sơn, xã Thanh Luận$0.04$III$9$3/28/2023 8:33:59 AM
+120$Huyện Sơn Động$các địa danh hành chính còn lại$0.04$II$9$3/28/2023 8:34:00 AM
+121$Huyện Hiệp Hòa$$0.08$II$9$3/22/2023 2:15:05 AM
+122$Huyện Tân Yên$$0.06$II$9$3/22/2023 2:15:05 AM
+123$Huyện Lạng Giang$$0.08$II$9$3/22/2023 2:15:05 AM
+124$Huyện Việt Yên$$0.12$II$9$3/22/2023 2:15:05 AM
+125$Huyện Lục Nam$$0.1$II$9$3/22/2023 2:15:05 AM
+126$Huyện Yên Dũng$$0.1$II$9$3/22/2023 2:15:05 AM
+127$Huyện Lục Ngạn$$0.06$II$9$3/22/2023 2:15:05 AM
+128$Huyện Yên Thế$$0.06$II$9$3/22/2023 2:15:05 AM
+129$Thành phố Bắc Kạn$$0.08$II$10$3/22/2023 2:15:05 AM
+130$Huyện Chợ Mới$$0.06$I$10$3/22/2023 2:15:05 AM
+131$Huyện Ba Bể$$0.06$I$10$3/22/2023 2:15:05 AM
+132$Huyện Na Rì$$0.04$I$10$3/22/2023 2:15:05 AM
+133$Huyện Bạch Thông$$0.08$I$10$3/22/2023 2:15:05 AM
+134$Huyện Ngân Sơn$$0.04$II$10$3/22/2023 2:15:05 AM
+135$Huyện Chợ Đồn$$0.04$I$10$3/22/2023 2:15:05 AM
+136$Huyện Pác Nặm$$0.06$I$10$3/22/2023 2:15:05 AM
+137$Thành phố Bắc Ninh$$0.12$II$11$3/22/2023 2:15:05 AM
+138$Thành phố Từ Sơn$$0.08$II$11$3/22/2023 2:15:05 AM
+139$Huyện Gia Bình$$0.14$II$11$3/22/2023 2:15:05 AM
+140$Huyện Thuận Thành$$0.1$II$11$3/22/2023 2:15:05 AM
+141$Huyện Lương Tài$xã Lai Hạ, xã Minh Tân, xã Trung Chính, xã Trung Kênh, xã Trừng Xá$0.12$III$11$3/28/2023 8:34:04 AM
+142$Huyện Lương Tài$các địa danh hành chính còn lại$0.12$II$11$3/28/2023 8:34:04 AM
+143$Huyện Tiên Du$$0.1$II$11$3/22/2023 2:15:05 AM
+144$Huyện Quế Võ$$0.12$II$11$3/22/2023 2:15:05 AM
+145$Huyện Yên Phong$$0.1$II$11$3/22/2023 2:15:05 AM
+146$Thành phố Bến Tre$$0.02$II$12$3/22/2023 2:15:05 AM
+147$Huyện Giồng Trôm$$0.02$II$12$3/22/2023 2:15:05 AM
+148$Huyện Ba Tri$$0.02$II$12$3/22/2023 2:15:05 AM
+149$Huyện Mỏ Cày Bắc$$0.02$II$12$3/22/2023 2:15:05 AM
+150$Huyện Bình Đại$$0.02$II$12$3/22/2023 2:15:05 AM
+151$Huyện Mỏ Cày Nam$$0.02$II$12$3/22/2023 2:15:05 AM
+152$Huyện Châu Thành$$0.02$II$12$3/22/2023 2:15:05 AM
+153$Huyện Thạnh Phú$$0.02$II$12$3/22/2023 2:15:05 AM
+154$Huyện Chợ Lách$$0.02$II$12$3/22/2023 2:15:05 AM
+155$Thành phố Thủ Dầu Một$$0.04$I$13$3/22/2023 2:15:05 AM
+156$Huyện Bàu Bàng$$0.04$I$13$3/22/2023 2:15:05 AM
+157$Thị xã Bến Cát$$0.04$I$13$3/22/2023 2:15:05 AM
+158$Huyện Bắc Tân Uyên$$0.02$I$13$3/22/2023 2:15:05 AM
+159$Thị xã Dĩ An$$0.04$I$13$3/22/2023 2:15:05 AM
+160$Huyện Dầu Tiếng$$0.04$I$13$3/22/2023 2:15:05 AM
+161$Thị xã Tân Uyên$$0.02$I$13$3/22/2023 2:15:05 AM
+162$Huyện Phú Giáo$$0.04$I$13$3/22/2023 2:15:05 AM
+163$Thị xã Thuận An$$0.06$I$13$3/22/2023 2:15:05 AM
+164$Thành phố Quy Nhơn$$0.1$III$14$3/22/2023 2:15:05 AM
+165$Huyện Phù Mỹ$$0.1$III$14$3/22/2023 2:15:05 AM
+166$Thị xã An Nhơn$$0.1$III$14$3/22/2023 2:15:05 AM
+167$Huyện Tây Sơn$xã Bình Thuận, xã Tây An, xã Tây Vinh$0.1$III$14$3/28/2023 8:34:09 AM
+168$Huyện Tây Sơn$các địa danh hành chính còn lại$0.1$III$14$3/28/2023 8:34:09 AM
+169$Huyện An Lão$xã An Toàn, xã An Vinh, xã An Nghĩa$0.1$II$14$3/28/2023 8:34:09 AM
+170$Huyện An Lão$các địa danh hành chính còn lại$0.1$III$14$3/28/2023 8:34:10 AM
+171$Huyện Tuy Phước$$0.1$III$14$3/22/2023 2:15:05 AM
+172$Huyện Hoài Ân$xã Dak Mang, xã Bok Tới, xã Ân Nghĩa, xã Ân Sơn$0.1$II$14$3/28/2023 8:34:10 AM
+173$Huyện Hoài Ân$các địa danh hành chính còn lại$0.1$III$14$3/28/2023 8:34:10 AM
+174$Huyện Vân Canh$$0.1$III$14$3/22/2023 2:15:05 AM
+175$Huyện Vân Canh$$0.1$III$14$3/22/2023 2:15:05 AM
+176$Huyện Hoài Nhơn$$0.1$III$14$3/22/2023 2:15:05 AM
+177$Huyện Vĩnh Thạnh$$0.1$II$14$3/22/2023 2:15:05 AM
+178$Huyện Phù Cát$$0.1$III$14$3/22/2023 2:15:05 AM
+179$Thành phố Đồng Xoài$$0.02$I$15$3/22/2023 2:15:05 AM
+180$Huyện Bù Đăng$$0.02$I$15$3/22/2023 2:15:05 AM
+181$Thị xã Bình Long$$0.02$I$15$3/22/2023 2:15:05 AM
+182$Huyện Bù Đốp$$0.02$I$15$3/22/2023 2:15:05 AM
+183$Thị xã Phước Long$$0.02$I$15$3/22/2023 2:15:05 AM
+184$Huyện Bù Gia Mập$$0.02$I$15$3/22/2023 2:15:05 AM
+185$Huyện Chơn Thành$$0.02$I$15$3/22/2023 2:15:05 AM
+186$Huyện Hớn Quản$$0.02$I$15$3/22/2023 2:15:05 AM
+187$Huyện Đồng Phú$$0.04$I$15$3/22/2023 2:15:05 AM
+188$Huyện Lộc Ninh$$0.02$I$15$3/22/2023 2:15:05 AM
+189$Thành phố Phan Thiết$$0.04$II$16$3/22/2023 2:15:05 AM
+190$Huyện Hàm Thuận Nam$xã Hàm Cần, xã Hàm Thạnh, xã Mương Mán, xã Mỹ Thạnh$0.02$I$16$3/28/2023 8:34:14 AM
+191$Huyện Hàm Thuận Nam$các địa danh hành chính còn lại$0.02$II$16$3/28/2023 8:34:14 AM
+192$Thị xã La Gi$$0.04$II$16$3/22/2023 2:15:05 AM
+193$Huyện Hàm Thuận Bắc$thị trấn Phú Long, xã Hồng Sơn, xã Hàm Liêm, xã Hàm Đức, xã Hàm Hiệp, xã Hàm Thắng$0.02$II$16$3/28/2023 8:34:15 AM
+194$Huyện Hàm Thuận Bắc$các địa danh hành chính còn lại$0.02$I$16$3/28/2023 8:34:15 AM
+195$Huyện Bắc Bình$xã Bình An, xã Bình Tân, xã Hải Ninh, xã Phan Điền, xã Phan Lâm, xã Phan Sơn, xã Phan Thanh, xã Phan Tiến, xã Sông Bình, xã Sông Lũy$0.02$I$16$3/28/2023 8:34:15 AM
+196$Huyện Bắc Bình$các địa danh hành chính còn lại$0.02$II$16$3/28/2023 8:34:15 AM
+197$Huyện Phú Quý$$0.06$III$16$3/22/2023 2:15:05 AM
+198$Huyện Đức Linh$$0.02$I$16$3/22/2023 2:15:05 AM
+199$Huyện Tánh Linh$$0.02$I$16$3/22/2023 2:15:05 AM
+200$Huyện Hàm Tân$$0.02$II$16$3/22/2023 2:15:05 AM
+201$Huyện Tuy Phong$$0.04$II$16$3/22/2023 2:15:05 AM
+202$Thành phố Cà Mau$$0.02$II$17$3/22/2023 2:15:05 AM
+203$Huyện Phú Tân$$0.02$II$17$3/22/2023 2:15:05 AM
+204$Huyện Cái Nước$$0.02$II$17$3/22/2023 2:15:05 AM
+205$Huyện U Minh$$0.02$II$17$3/22/2023 2:15:05 AM
+206$Huyện Đầm Dơi$$0.02$II$17$3/22/2023 2:15:05 AM
+207$Huyện Trần Văn Thời$$0.02$II$17$3/22/2023 2:15:05 AM
+208$Huyện Năm Căn$$0.02$II$17$3/22/2023 2:15:05 AM
+209$Huyện Thới Bình$$0.02$II$17$3/22/2023 2:15:05 AM
+210$Huyện Ngọc Hiển$$0.04$II$17$3/22/2023 2:15:05 AM
+211$Thành phố Cao Bằng$$0.04$I$18$3/22/2023 2:15:05 AM
+212$Huyện Phục Hòa$$0.04$I$18$3/22/2023 2:15:05 AM
+213$Huyện Bảo Lạc$$0.04$I$18$3/22/2023 2:15:05 AM
+214$Huyện Quảng Uyên$$0.04$I$18$3/22/2023 2:15:05 AM
+215$Huyện Bảo Lâm$$0.06$I$18$3/22/2023 2:15:05 AM
+216$Huyện Thạch An$$0.04$I$18$3/22/2023 2:15:05 AM
+217$Huyện Hạ Lang$$0.02$I$18$3/22/2023 2:15:05 AM
+218$Huyện Thông Nông$$0.04$I$18$3/22/2023 2:15:05 AM
+219$Huyện Hà Quảng$$0.06$I$18$3/22/2023 2:15:05 AM
+220$Huyện Trà Lĩnh$$0.04$I$18$3/22/2023 2:15:05 AM
+221$Huyện Hòa An$$0.04$I$18$3/22/2023 2:15:05 AM
+222$Huyện Trùng Khánh$$0.06$I$18$3/22/2023 2:15:05 AM
+223$Huyện Nguyên Bình$$0.04$I$18$3/22/2023 2:15:05 AM
+224$Thành phố Buôn Ma Thuột$$0.04$I$19$3/22/2023 2:15:05 AM
+225$Huyện Cư Kuin$$0.04$I$19$3/22/2023 2:15:05 AM
+226$Thị xã Buôn Hồ$$0.04$I$19$3/22/2023 2:15:05 AM
+227$Huyện Cư M'gar$$0.04$I$19$3/22/2023 2:15:05 AM
+228$Huyện Buôn Đôn$$0.02$I$19$3/22/2023 2:15:05 AM
+229$Huyện Ea H'leo$$0.04$I$19$3/22/2023 2:15:05 AM
+230$Huyện Ea Kar$$0.04$I$19$3/22/2023 2:15:05 AM
+231$Huyện Krông Năng$$0.04$I$19$3/22/2023 2:15:05 AM
+232$Huyện Ea Súp$$0.04$I$19$3/22/2023 2:15:05 AM
+233$Huyện Krông Pắc$$0.04$I$19$3/22/2023 2:15:05 AM
+234$Huyện Krông A Na$$0.02$I$19$3/22/2023 2:15:05 AM
+235$Huyện Lắk$$0.04$I$19$3/22/2023 2:15:05 AM
+236$Huyện Krông Bông$$0.04$I$19$3/22/2023 2:15:05 AM
+237$Huyện M'Đrắk$thị trấn M'Đrắk, xã Cư M'ta, xã Ea Pil, xã Krông Á, xã Krông Jing$0.06$I$19$3/28/2023 8:54:09 AM
+238$Huyện M'Đrắk$các địa danh hành chính còn lại$0.06$II$19$3/28/2023 8:54:09 AM
+239$Huyện Krông Búk$$0.04$I$19$3/22/2023 2:15:05 AM
+240$Thành phố Gia Nghĩa$$0.04$I$20$3/22/2023 2:15:05 AM
+241$Huyện Đắk Song$$0.02$I$20$3/22/2023 2:15:05 AM
+242$Huyện Cư Jút$$0.02$I$20$3/22/2023 2:15:05 AM
+243$Huyện Đắk Glong$$0.04$I$20$3/22/2023 2:15:05 AM
+244$Huyện Đắk Mil$$0.02$I$20$3/22/2023 2:15:05 AM
+245$Huyện Krông Nô$$0.02$I$20$3/22/2023 2:15:05 AM
+246$Huyện Đắk R'Lấp$$0.02$I$20$3/22/2023 2:15:05 AM
+247$Huyện Tuy Đức$$0.02$I$20$3/22/2023 2:15:05 AM
+248$Thành phố Điện Biên Phủ$$0.18$II$21$3/22/2023 2:15:05 AM
+249$Huyện Mường Chà$$0.2$II$21$3/22/2023 2:15:05 AM
+250$Thị xã Mường Lay$$0.2$II$21$3/22/2023 2:15:05 AM
+251$Huyện Mường Nhé$$0.16$II$21$3/22/2023 2:15:05 AM
+252$Huyện Điện Biên$$0.14$II$21$3/22/2023 2:15:05 AM
+253$Huyện Nậm Pồ$$0.16$II$21$3/22/2023 2:15:05 AM
+254$Huyện Điện Biên Đông$$0.14$II$21$3/22/2023 2:15:05 AM
+255$Huyện Tuần Giáo$$0.2$II$21$3/22/2023 2:15:05 AM
+256$Huyện Mường Ảng$$0.14$II$21$3/22/2023 2:15:05 AM
+257$Huyện Tủa Chùa$$0.2$II$21$3/22/2023 2:15:05 AM
+258$Thành phố Biên Hòa$$0.04$II$22$3/22/2023 2:15:05 AM
+259$Huyện Tân Phú$$0.02$I$22$3/22/2023 2:15:05 AM
+260$Thị xã Long Khánh$$0.02$II$22$3/22/2023 2:15:05 AM
+261$Huyện Thống Nhất$$0.02$II$22$3/22/2023 2:15:05 AM
+262$Huyện Cẩm Mỹ$$0.02$II$22$3/22/2023 2:15:05 AM
+263$Huyện Trảng Bom$$0.02$I$22$3/22/2023 2:15:05 AM
+264$Huyện Định Quán$$0.02$I$22$3/22/2023 2:15:05 AM
+265$Huyện Vĩnh Cửu$$0.02$I$22$3/22/2023 2:15:05 AM
+266$Huyện Long Thành$$0.04$II$22$3/22/2023 2:15:05 AM
+267$Huyện Xuân Lộc$$0.02$II$22$3/22/2023 2:15:05 AM
+268$Huyện Nhơn Trạch$$0.04$II$22$3/22/2023 2:15:05 AM
+269$Thành phố Cao Lãnh$$0.02$I$23$3/22/2023 2:15:05 AM
+270$Thị xã Hồng Ngự$$0.02$I$23$3/22/2023 2:15:05 AM
+271$Thành phố Sa Đéc$$0.04$I$23$3/22/2023 2:15:05 AM
+272$Huyện Cao Lãnh$$0.02$I$23$3/22/2023 2:15:05 AM
+273$Huyện Châu Thành$$0.02$II$23$3/22/2023 2:15:05 AM
+274$Huyện Tam Nông$$0.02$I$23$3/22/2023 2:15:05 AM
+275$Huyện Hồng Ngự$$0.04$I$23$3/22/2023 2:15:05 AM
+276$Huyện Tân Hồng$$0.02$I$23$3/22/2023 2:15:05 AM
+277$Huyện Lai Vung$xã Phong Hòa, xã Long Thắng, xã Tân Hòa, xã Định Hòa$0.04$II$23$3/28/2023 8:54:17 AM
+278$Huyện Lai Vung$các địa danh hành chính còn lại$0.04$I$23$3/28/2023 8:54:17 AM
+279$Huyện Thanh Bình$$0.02$I$23$3/22/2023 2:15:05 AM
+280$Huyện Lấp Vò$$0.04$I$23$3/22/2023 2:15:05 AM
+281$Huyện Tháp Mười$$0.02$I$23$3/22/2023 2:15:05 AM
+282$Thành phố Pleiku$$0.04$I$24$3/22/2023 2:15:05 AM
+283$Huyện Đắk Đoa$$0.04$I$24$3/22/2023 2:15:05 AM
+284$Thị xã An Khê$$0.08$I$24$3/22/2023 2:15:05 AM
+285$Huyện Krông Pa$$0.08$I$24$3/22/2023 2:15:05 AM
+286$Thị xã Ayun Pa$$0.06$I$24$3/22/2023 2:15:05 AM
+287$Huyện Kông Chro$$0.08$I$24$3/22/2023 2:15:05 AM
+288$Huyện Chư Sê$$0.04$I$24$3/22/2023 2:15:05 AM
+289$Huyện KBang$$0.08$I$24$3/22/2023 2:15:05 AM
+290$Huyện Chư Pưh$$0.06$I$24$3/22/2023 2:15:05 AM
+291$Huyện Ia Grai$$0.04$I$24$3/22/2023 2:15:05 AM
+292$Huyện Chư Prông$$0.04$I$24$3/22/2023 2:15:05 AM
+293$Huyện Ia Pa$$0.06$I$24$3/22/2023 2:15:05 AM
+294$Huyện Chư Păh$$0.06$I$24$3/22/2023 2:15:05 AM
+295$Huyện Mang Yang$$0.06$I$24$3/22/2023 2:15:05 AM
+296$Huyện Đắk Pơ$$0.08$I$24$3/22/2023 2:15:05 AM
+297$Huyện Phú Thiện$$0.06$I$24$3/22/2023 2:15:05 AM
+298$Huyện Đức Cơ$$0.06$I$24$3/22/2023 2:15:05 AM
+299$Thành phố Hà Giang$$0.04$II$25$3/22/2023 2:15:05 AM
+300$Huyện Quang Bình$$0.06$II$25$3/22/2023 2:15:05 AM
+301$Huyện Bắc Mê$$0.04$II$25$3/22/2023 2:15:05 AM
+302$Huyện Quản Bạ$$0.04$I$25$3/22/2023 2:15:05 AM
+303$Huyện Bắc Quang$$0.04$II$25$3/22/2023 2:15:05 AM
+304$Huyện Vị Xuyên$$0.04$I$25$3/22/2023 2:15:05 AM
+305$Huyện Đồng Văn$$0.04$I$25$3/22/2023 2:15:05 AM
+306$Huyện Xín Mần$$0.04$I$25$3/22/2023 2:15:05 AM
+307$Huyện Hoàng Su Phì$$0.04$II$25$3/22/2023 2:15:05 AM
+308$Huyện Yên Minh$$0.06$I$25$3/22/2023 2:15:05 AM
+309$Huyện Mèo Vạc$$0.04$I$25$3/22/2023 2:15:05 AM
+310$Thành phố Phủ Lý$$0.14$III$26$3/22/2023 2:15:05 AM
+311$Huyện Kim Bảng$$0.14$III$26$3/22/2023 2:15:05 AM
+312$Thị xã Duy Tiên$$0.14$III$26$3/22/2023 2:15:05 AM
+313$Huyện Lý Nhân$$0.14$III$26$3/22/2023 2:15:05 AM
+314$Huyện Bình Lục$$0.14$IV$26$3/22/2023 2:15:05 AM
+315$Huyện Thanh Liêm$$0.14$III$26$3/22/2023 2:15:05 AM
+316$Thành phố Hà Tĩnh$$0.12$IV$27$3/22/2023 2:15:05 AM
+317$Huyện Hương Sơn$thị trấn Tây Sơn, xã Quang Diệm, xã Sơn Hàm, xã Sơn Hồng, xã Sơn Kim 1, xã Sơn Kim 2, xã Sơn Lĩnh, xã Sơn Tây$0.1$I$27$3/28/2023 8:54:25 AM
+318$Huyện Hương Sơn$các địa danh hành chính còn lại$0.1$II$27$3/28/2023 6:57:42 AM
+319$Thị xã Hồng Lĩnh$$0.12$IV$27$3/22/2023 2:15:05 AM
+320$Huyện Hương Khê$xã Hương Lâm, xã Hương Liên, xã Hương Trà, xã Hương Vĩnh, xã Hương Xuân, xã Phú Gia, xã Phú Phong$0.08$I$27$3/28/2023 8:54:25 AM
+321$Huyện Hương Khê$các địa danh hành chính còn lại$0.08$II$27$3/28/2023 8:54:26 AM
+322$Thị xã Kỳ Anh$$0.1$IV$27$3/22/2023 2:15:05 AM
+323$Huyện Lộc Hà$$0.12$IV$27$3/22/2023 2:15:05 AM
+324$Huyện Can Lộc$$0.12$IV$27$3/22/2023 2:15:05 AM
+325$Huyện Nghi Xuân$$0.12$IV$27$3/22/2023 2:15:05 AM
+326$Huyện Cẩm Xuyên$thị trấn Thiên Cầm, xã Cẩm Dương, xã Yên Hòa, xã Cẩm Lĩnh, xã Cẩm Lộc, xã Cẩm Nhượng, xã Cẩm Trung$0.12$IV$27$3/28/2023 8:54:27 AM
+327$Huyện Cẩm Xuyên$các địa danh hành chính còn lại$0.12$III$27$3/28/2023 8:54:27 AM
+328$Huyện Thạch Hà$$0.12$IV$27$3/22/2023 2:15:05 AM
+329$Huyện Đức Thọ$$0.12$II$27$3/22/2023 2:15:05 AM
+330$Huyện Vũ Quang$$0.1$II$27$3/22/2023 2:15:05 AM
+331$Thành phố Hải Dương$$0.14$III$28$3/22/2023 2:15:05 AM
+332$Huyện Kim Thành$$0.14$III$28$3/22/2023 2:15:05 AM
+333$Thành phố Chí Linh$$0.12$III$28$3/22/2023 2:15:05 AM
+334$Huyện Ninh Giang$$0.06$III$28$3/22/2023 2:15:05 AM
+335$Thị xã Kinh Môn$$0.12$III$28$3/22/2023 2:15:05 AM
+336$Huyện Nam Sách$$0.14$III$28$3/22/2023 2:15:05 AM
+337$Huyện Bình Giang$$0.06$III$28$3/22/2023 2:15:05 AM
+338$Huyện Thanh Hà$$0.14$III$28$3/22/2023 2:15:05 AM
+339$Huyện Cẩm Giàng$$0.1$III$28$3/22/2023 2:15:05 AM
+340$Huyện Thanh Miện$$0.06$III$28$3/22/2023 2:15:05 AM
+341$Huyện Gia Lộc$$0.1$III$28$3/22/2023 2:15:05 AM
+342$Huyện Tứ Kỳ$$0.12$IV$28$3/22/2023 2:15:05 AM
+343$Thành phố Vị Thanh$$0.02$II$29$3/22/2023 2:15:05 AM
+344$Huyện Long Mỹ$$0.02$II$29$3/22/2023 2:15:05 AM
+345$Thị xã Ngã Bảy$$0.02$II$29$3/22/2023 2:15:05 AM
+346$Huyện Phụng Hiệp$$0.02$II$29$3/22/2023 2:15:05 AM
+347$Huyện Châu Thành$$0.04$II$29$3/22/2023 2:15:05 AM
+348$Huyện Vị Thủy$$0.02$II$29$3/22/2023 2:15:05 AM
+349$Huyện Châu Thành A$$0.02$II$29$3/22/2023 2:15:05 AM
+350$Thành phố Hòa Bình$$0.08$II$30$3/22/2023 2:15:05 AM
+351$Huyện Lạc Thủy$thị trấn Ba Hàng Đồi, xã Hưng Thi, xã Phú Thành, xã Thống Nhất, xã Phú Lão$0.08$II$30$3/28/2023 8:54:32 AM
+352$Huyện Lạc Thủy$các địa danh hành chính còn lại$0.08$II$30$3/28/2023 8:54:32 AM
+353$Huyện Cao Phong$$0.08$II$30$3/22/2023 2:15:05 AM
+354$Huyện Lương Sơn$$0.08$II$30$3/22/2023 2:15:05 AM
+355$Huyện Đà Bắc$thị trấn Đà Bắc, xã Tân Minh, xã Vầy Nưa, xã Cao Sơn, xã Tú Lý, xã Hiền Lương, xã Toàn Sơn$0.08$II$30$3/28/2023 8:54:33 AM
+356$Huyện Đà Bắc$các địa danh hành chính còn lại$0.08$I$30$3/28/2023 8:54:33 AM
+357$Huyện Mai Châu$$0.16$II$30$3/22/2023 2:15:05 AM
+358$Huyện Kim Bôi$$0.06$II$30$3/22/2023 2:15:05 AM
+359$Huyện Tân Lạc$$0.12$II$30$3/22/2023 2:15:05 AM
+360$Huyện Lạc Sơn$$0.16$II$30$3/22/2023 2:15:05 AM
+361$Huyện Yên Thủy$$0.14$II$30$3/22/2023 2:15:05 AM
+362$Thành phố Hưng Yên$$0.14$III$31$3/22/2023 2:15:05 AM
+363$Huyện Phù Cừ$$0.08$III$31$3/22/2023 2:15:05 AM
+364$Huyện Ân Thi$$0.08$III$31$3/22/2023 2:15:05 AM
+365$Huyện Tiên Lữ$$0.12$III$31$3/22/2023 2:15:05 AM
+366$Huyện Kim Động$$0.12$III$31$3/22/2023 2:15:05 AM
+367$Huyện Văn Giang$$0.08$II$31$3/22/2023 2:15:05 AM
+368$Huyện Khoái Châu$$0.12$III$31$3/22/2023 2:15:05 AM
+369$Huyện Văn Lâm$$0.08$II$31$3/22/2023 2:15:05 AM
+370$Huyện Mỹ Hào$$0.08$III$31$3/22/2023 2:15:05 AM
+371$Huyện Yên Mỹ$$0.08$III$31$3/22/2023 2:15:05 AM
+372$Thành phố Nha Trang$$0.04$II$32$3/22/2023 2:15:05 AM
+373$Huyện Khánh Sơn$$0.04$I$32$3/22/2023 2:15:05 AM
+374$Thành phố Cam Ranh$$0.04$II$32$3/22/2023 2:15:05 AM
+375$Huyện Khánh Vĩnh$$0.04$I$32$3/22/2023 2:15:05 AM
+376$Thị xã Ninh Hòa$$0.04$II$32$3/22/2023 2:15:05 AM
+377$Huyện Trường Sa (quần đảo Trường Sa)$$0.02$IV$32$3/22/2023 2:15:05 AM
+378$Huyện Cam Lâm$$0.04$II$32$3/22/2023 2:15:05 AM
+379$Huyện Vạn Ninh$$0.04$II$32$3/22/2023 2:15:05 AM
+380$Huyện Diên Khánh$$0.04$II$32$3/22/2023 2:15:05 AM
+381$Thành phố Rạch Giá$$0.02$II$33$3/22/2023 2:15:05 AM
+382$Huyện Giang Thành$$0.02$II$33$3/22/2023 2:15:05 AM
+383$Thành phố Phú Quốc$$0.02$III$33$3/22/2023 2:15:05 AM
+384$Huyện Gò Quao$$0.02$II$33$3/22/2023 2:15:05 AM
+385$Thị xã Hà Tiên$$0.02$II$33$3/22/2023 2:15:05 AM
+386$Huyện Hòn Đất$$0.02$II$33$3/22/2023 2:15:05 AM
+387$Huyện An Biên$$0.02$II$33$3/22/2023 2:15:05 AM
+388$Huyện Kiên Hải$$0.02$III$33$3/22/2023 2:15:05 AM
+389$Huyện An Minh$$0.02$II$33$3/22/2023 2:15:05 AM
+390$Huyện Kiên Lương$$0.02$II$33$3/22/2023 2:15:05 AM
+391$Huyện Châu Thành$$0.02$II$33$3/22/2023 2:15:05 AM
+392$Huyện Tân Hiệp$$0.02$II$33$3/22/2023 2:15:05 AM
+393$Huyện Giồng Riềng$$0.02$II$33$3/22/2023 2:15:05 AM
+394$Huyện Vĩnh Thuận$$0.02$II$33$3/22/2023 2:15:05 AM
+395$Thành phố Kon Tum$$0.06$I$34$3/22/2023 2:15:05 AM
+396$Huyện Kon Plông$$0.08$I$34$3/22/2023 2:15:05 AM
+397$Huyện Đắk Hà$$0.06$I$34$3/22/2023 2:15:05 AM
+398$Huyện Ngọc Hồi$$0.08$I$34$3/22/2023 2:15:05 AM
+399$Huyện Đắk Tô$$0.08$I$34$3/22/2023 2:15:05 AM
+400$Huyện Sa Thầy$$0.08$I$34$3/22/2023 2:15:05 AM
+401$Huyện Đắk Glei$$0.08$I$34$3/22/2023 2:15:05 AM
+402$Huyện Tu Mơ Rông$$0.08$I$34$3/22/2023 2:15:05 AM
+403$Huyện Kon Rẫy$$0.08$I$34$3/22/2023 2:15:05 AM
+404$Huyện Ia H’Drai$$0.1$I$34$3/22/2023 2:15:05 AM
+405$Thành phố Lai Châu$$0.12$II$35$3/22/2023 2:15:05 AM
+406$Huyện Sìn Hồ$$0.18$II$35$3/22/2023 2:15:05 AM
+407$Huyện Mường Tè$$0.12$II$35$3/22/2023 2:15:05 AM
+408$Huyện Tân Uyên$$0.1$II$35$3/22/2023 2:15:05 AM
+409$Huyện Nậm Nhùn$$0.16$II$35$3/22/2023 2:15:05 AM
+410$Huyện Tam Đường$$0.1$II$35$3/22/2023 2:15:05 AM
+411$Huyện Phong Thổ$$0.14$II$35$3/22/2023 2:15:05 AM
+412$Huyện Than Uyên$$0.1$II$35$3/22/2023 2:15:05 AM
+413$Thành phố Lạng Sơn$$0.04$I$36$3/22/2023 2:15:05 AM
+414$Huyện Hữu Lũng$xã Đồng Tiến, xã Hoà Thắng, xã Minh Hòa, xã Minh Sơn, xã Thanh Sơn, xã Vân Nham$0.08$II$36$3/28/2023 8:54:44 AM
+415$Huyện Hữu Lũng$các địa danh hành chính còn lại$0.08$I$36$3/28/2023 8:54:44 AM
+416$Huyện Bình Gia$$0.04$I$36$3/22/2023 2:15:05 AM
+417$Huyện Lộc Bình$$0.06$I$36$3/22/2023 2:15:05 AM
+418$Huyện Bắc Sơn$$0.04$I$36$3/22/2023 2:15:05 AM
+419$Huyện Tràng Định$$0.06$I$36$3/22/2023 2:15:05 AM
+420$Huyện Cao Lộc$$0.04$I$36$3/22/2023 2:15:05 AM
+421$Huyện Văn Lãng$$0.06$I$36$3/22/2023 2:15:05 AM
+422$Huyện Chi Lăng$$0.04$I$36$3/22/2023 2:15:05 AM
+423$Huyện Văn Quan$$0.04$I$36$3/22/2023 2:15:05 AM
+424$Huyện Đình Lập$xã Bắc Lãng, xã Châu Sơn, xã Đồng Thắng, xã Lâm Ca$0.04$II$36$3/28/2023 8:54:46 AM
+425$Huyện Đình Lập$các địa danh hành chính còn lại$0.04$I$36$3/28/2023 8:54:46 AM
+426$Thành phố Lào Cai$$0.14$I$37$3/22/2023 2:15:05 AM
+427$Huyện Bát Xát$Thị trấn Bát Xát, xã Quang Kim, xã Tòng Sành$0.12$I$37$3/28/2023 8:54:47 AM
+428$Huyện Bát Xát$các địa danh hành chính còn lại$0.12$II$37$3/28/2023 8:54:47 AM
+429$Thị xã Sa Pa$$0.08$II$37$3/22/2023 2:15:05 AM
+430$Huyện Mường Khương$$0.04$I$37$3/22/2023 2:15:05 AM
+431$Huyện Bắc Hà$$0.06$I$37$3/22/2023 2:15:05 AM
+432$Huyện Si Ma Cai$$0.04$I$37$3/22/2023 2:15:05 AM
+433$Huyện Bảo Yên$$0.14$I$37$3/22/2023 2:15:05 AM
+434$Huyện Văn Bàn$xã Dần Thàng, xã Dương Qùy, xã Hòa Mạc, xã Khánh Yên Hạ, xã Khánh Yên Trung, xã Minh Lương, xã Nậm Chầy, xã Nậm Mả, xã Nậm Xây, xã Nậm Xé, xã Thẩm Dương$0.1$II$37$3/28/2023 8:54:48 AM
+435$Huyện Văn Bàn$các địa danh hành chính còn lại$0.1$I$37$3/28/2023 8:54:48 AM
+436$Huyện Bảo Thắng$$0.14$I$37$3/22/2023 2:15:05 AM
+437$Thành phố Đà Lạt$$0.02$I$38$3/22/2023 2:15:05 AM
+438$Huyện Đơn Dương$$0.04$I$38$3/22/2023 2:15:05 AM
+439$Thành phố Bảo Lộc$$0.02$I$38$3/22/2023 2:15:05 AM
+440$Huyện Đức Trọng$$0.04$I$38$3/22/2023 2:15:05 AM
+441$Huyện Bảo Lâm$$0.02$I$38$3/22/2023 2:15:05 AM
+442$Huyện Đạ Huoai$$0.02$I$38$3/22/2023 2:15:05 AM
+443$Huyện Cát Tiên$$0.04$I$38$3/22/2023 2:15:05 AM
+444$Huyện Đạ Tẻh$$0.02$I$38$3/22/2023 2:15:05 AM
+445$Huyện Di Linh$$0.02$I$38$3/22/2023 2:15:05 AM
+446$Huyện Lâm Hà$$0.02$I$38$3/22/2023 2:15:05 AM
+447$Huyện Đam Rông$$0.02$I$38$3/22/2023 2:15:05 AM
+448$Huyện Lạc Dương$$0.02$I$38$3/22/2023 2:15:05 AM
+449$Thành phố Tân An$$0.02$II$39$3/22/2023 2:15:05 AM
+450$Huyện Mộc Hóa$$0.02$I$39$3/22/2023 2:15:05 AM
+451$Thị xã Kiến Tường$$0.02$I$39$3/22/2023 2:15:05 AM
+452$Huyện Tân Hưng$$0.02$I$39$3/22/2023 2:15:05 AM
+453$Huyện Bến Lức$$0.04$II$39$3/22/2023 2:15:05 AM
+454$Huyện Tân Thạnh$$0.02$I$39$3/22/2023 2:15:05 AM
+455$Huyện Cần Đước$$0.04$II$39$3/22/2023 2:15:05 AM
+456$Huyện Tân Trụ$$0.04$II$39$3/22/2023 2:15:05 AM
+457$Huyện Cần Giuộc$$0.04$II$39$3/22/2023 2:15:05 AM
+458$Huyện Thạnh Hóa$$0.02$I$39$3/22/2023 2:15:05 AM
+459$Huyện Châu Thành$$0.02$II$39$3/22/2023 2:15:05 AM
+460$Huyện Thủ Thừa$$0.04$II$39$3/22/2023 2:15:05 AM
+461$Huyện Đức Hòa$$0.04$I$39$3/22/2023 2:15:05 AM
+462$Huyện Vĩnh Hưng$$0.02$I$39$3/22/2023 2:15:05 AM
+463$Huyện Đức Huệ$$0.04$I$39$3/22/2023 2:15:05 AM
+464$Thành phố Nam Định$$0.14$IV$40$3/22/2023 2:15:05 AM
+465$Huyện Nghĩa Hưng$$0.14$IV$40$3/22/2023 2:15:05 AM
+466$Huyện Giao Thủy$$0.12$IV$40$3/22/2023 2:15:05 AM
+467$Huyện Trực Ninh$$0.14$IV$40$3/22/2023 2:15:05 AM
+468$Huyện Hải Hậu$$0.14$IV$40$3/22/2023 2:15:05 AM
+469$Huyện Vụ Bản$$0.14$IV$40$3/22/2023 2:15:05 AM
+470$Huyện Mỹ Lộc$$0.14$IV$40$3/22/2023 2:15:05 AM
+471$Huyện Xuân Trường$$0.14$IV$40$3/22/2023 2:15:05 AM
+472$Huyện Nam Trực$$0.14$IV$40$3/22/2023 2:15:05 AM
+473$Huyện Ý Yên$$0.12$IV$40$3/22/2023 2:15:05 AM
+474$Thành phố Vinh$$0.12$III$41$3/22/2023 2:15:05 AM
+475$Huyện Nam Đàn$$0.12$II$41$3/22/2023 2:15:05 AM
+476$Thị xã Cửa Lò$$0.12$IV$41$3/22/2023 2:15:05 AM
+477$Huyện Nghĩa Đàn$xã Nghĩa An, xã Nghĩa Đức, xã Nghĩa Hiếu, xã Nghĩa Hồng, xã Nghĩa Hưng, xã Nghĩa Khánh, xã Nghĩa Thành, xã Nghĩa Mai, xã Nghĩa Minh, xã Nghĩa Thịnh, xã Nghĩa Yên$0.1$II$41$3/28/2023 8:55:06 AM
+478$Huyện Nghĩa Đàn$các địa danh hành chính còn lại$0.1$III$41$3/28/2023 8:55:06 AM
+479$Thị xã Hoàng Mai$$0.1$IV$41$3/22/2023 2:15:05 AM
+480$Huyện Quế Phong$$0.08$I$41$3/22/2023 2:15:05 AM
+481$Thị xã Thái Hòa$$0.1$III$41$3/22/2023 2:15:05 AM
+482$Huyện Quỳ Hợp$$0.08$II$41$3/22/2023 2:15:05 AM
+483$Huyện Anh Sơn$$0.1$I$41$3/23/2023 8:48:34 AM
+484$Huyện Quỳnh Lưu$xã An Hoà, xã Quỳnh Nghĩa, xã Quỳnh Bảng, xã Quỳnh Đôi, xã Quỳnh Long, xã Quỳnh Lương, xã Quỳnh Minh, xã Quỳnh Thanh, xã Quỳnh Thuận, xã Quỳnh Yên, xã Tiến Thuỷ$0.1$IV$41$3/28/2023 8:55:08 AM
+485$Huyện Quỳnh Lưu$các địa danh hành chính còn lại$0.1$III$41$3/28/2023 8:55:08 AM
+486$Huyện Con Cuông$$0.1$I$41$3/22/2023 2:15:05 AM
+487$Huyện Quỳ Châu$xã Châu Bính, xã Châu Hạnh, xã Châu Hội, xã Châu Nga$0.08$II$41$3/28/2023 8:55:08 AM
+488$Huyện Quỳ Châu$các địa danh hành chính còn lại$0.08$I$41$3/28/2023 8:55:08 AM
+489$Huyện Diễn Châu$$0.1$III$41$3/22/2023 2:15:05 AM
+490$Huyện Tân Kỳ$$0.1$II$41$3/22/2023 2:15:05 AM
+491$Huyện Đô Lương$$0.12$II$41$3/22/2023 2:15:05 AM
+492$Huyện Thanh Chương$$0.12$II$41$3/22/2023 2:15:05 AM
+493$Huyện Hưng Nguyên$$0.12$III$41$3/22/2023 2:15:05 AM
+494$Huyện Tương Dương$$0.08$I$41$3/22/2023 2:15:05 AM
+495$Huyện Kỳ Sơn$$0.06$I$41$3/22/2023 2:15:05 AM
+496$Huyện Yên Thành$xã Đô Thành, xã Đức Thành, xã Hậu Thành, xã Hoa Thành, xã Hồng Thành, xã Hợp Thành, xã Lăng Thành, xã Mã Thành, xã Nhân Thành, xã Phú Thành, xã Phúc Thành, xã Sơn Thành, xã Tân Thành, xã Thọ Thành, xã Tiến Thành, xã Văn Thành, xã Viên Thành, xã Vĩnh Thành$0.1$III$41$3/28/2023 8:55:10 AM
+497$Huyện Yên Thành$các địa danh hành chính còn lại$0.1$II$41$3/28/2023 8:55:10 AM
+498$Huyện Nghi Lộc$xã Nghi Thiết, xã Khánh Hợp, xã Nghi Quang, xã Nghi Tiến$0.12$IV$41$3/28/2023 8:55:10 AM
+499$Huyện Nghi Lộc$các địa danh hành chính còn lại$0.12$III$41$3/28/2023 8:55:11 AM
+500$Thành phố Ninh Bình$$0.12$IV$42$3/22/2023 2:15:05 AM
+501$Huyện Kim Sơn$$0.12$IV$42$3/22/2023 2:15:05 AM
+502$Thị xã Tam Điệp$$0.12$IV$42$3/22/2023 2:15:05 AM
+503$Huyện Nho Quan$$0.12$III$42$3/22/2023 2:15:05 AM
+504$Huyện Gia Viễn$$0.08$III$42$3/22/2023 2:15:05 AM
+505$Huyện Yên Khánh$$0.12$IV$42$3/22/2023 2:15:05 AM
+506$Huyện Hoa Lư$$0.1$III$42$3/22/2023 2:15:05 AM
+507$Huyện Yên Mô$$0.12$IV$42$3/22/2023 2:15:05 AM
+508$Thành phố Phan Rang-Tháp Chàm$$0.02$II$43$3/22/2023 2:15:05 AM
+509$Huyện Ninh Sơn$$0.02$I$43$3/22/2023 2:15:05 AM
+510$Huyện Bác Ái$$0.02$I$43$3/22/2023 2:15:05 AM
+511$Huyện Thuận Bắc$$0.02$II$43$3/22/2023 2:15:05 AM
+512$Huyện Ninh Hải$$0.02$II$43$3/22/2023 2:15:05 AM
+513$Huyện Thuận Nam$$0.02$II$43$3/22/2023 2:15:05 AM
+514$Huyện Ninh Phước$$0.02$II$43$3/22/2023 2:15:05 AM
+515$Thành phố Việt Trì$$0.14$II$44$3/22/2023 2:15:05 AM
+516$Huyện Tam Nông$$0.12$II$44$3/22/2023 2:15:05 AM
+517$Thị xã Phú Thọ$$0.14$II$44$3/22/2023 2:15:05 AM
+518$Huyện Tân Sơn$$0.08$II$44$3/22/2023 2:15:05 AM
+519$Huyện Cẩm Khê$$0.12$II$44$3/22/2023 2:15:05 AM
+520$Huyện Thanh Ba$$0.14$II$44$3/22/2023 2:15:05 AM
+521$Huyện Đoan Hùng$$0.12$II$44$3/22/2023 2:15:05 AM
+522$Huyện Thanh Sơn$$0.08$II$44$3/22/2023 2:15:05 AM
+523$Huyện Hạ Hòa$$0.12$II$44$3/22/2023 2:15:05 AM
+524$Huyện Thanh Thủy$$0.08$II$44$3/22/2023 2:15:05 AM
+525$Huyện Lâm Thao$$0.14$II$44$3/22/2023 2:15:05 AM
+526$Huyện Yên Lập$$0.08$II$44$3/22/2023 2:15:05 AM
+527$Huyện Phù Ninh$$0.14$II$44$3/22/2023 2:15:05 AM
+528$Thành phố Tuy Hòa$$0.1$III$45$3/22/2023 2:15:05 AM
+529$Huyện Sông Hinh$$0.08$II$45$3/22/2023 2:15:05 AM
+530$Thị xã Sông Cầu$$0.1$III$45$3/22/2023 2:15:05 AM
+531$Huyện Sơn Hòa$$0.1$II$45$3/22/2023 2:15:05 AM
+532$Huyện Đông Hòa$$0.08$III$45$3/22/2023 2:15:05 AM
+533$Huyện Tây Hòa$xã Hòa Mỹ Đông, xã Hòa Mỹ Tây, xã Hoà Phong, xã Hòa Phú, xã Sơn Thành Đông, xã Sơn Thành Tây$0.1$II$45$3/28/2023 8:57:05 AM
+534$Huyện Tây Hòa$các địa danh hành chính còn lại$0.1$III$45$3/28/2023 8:57:05 AM
+535$Huyện Đồng Xuân$xã Phú Mỡ, xã Xuân Phước, xã Xuân Quang 1, xã Xuân Quang 2, xã Xuân Quang 3$0.1$II$45$3/28/2023 8:57:06 AM
+536$Huyện Đồng Xuân$các địa danh hành chính còn lại$0.1$III$45$3/28/2023 8:57:06 AM
+537$Huyện Tuy An$$0.1$III$45$3/22/2023 2:15:05 AM
+538$Huyện Phú Hòa$$0.1$III$45$3/22/2023 2:15:05 AM
+539$Thành phố Đồng Hới$$0.04$III$46$3/22/2023 2:15:05 AM
+540$Huyện Minh Hóa$$0.06$I$46$3/22/2023 2:15:05 AM
+541$Thị xã Ba Đồn$$0.08$III$46$3/22/2023 2:15:05 AM
+542$Huyện Quảng Ninh$$0.04$III$46$3/22/2023 2:15:05 AM
+543$Huyện Bố Trạch$xã Bắc Trạch, xã Đại Trạch, xã Đồng Trạch, xã Đức Trạch, xã Hải Phú, xã Lý Trạch, xã Nhân Trạch, xã Thanh Trạch, xã Trung Trạch$0.06$III$46$3/28/2023 8:57:06 AM
+544$Huyện Bố Trạch$các địa danh hành chính còn lại$0.06$II$46$3/28/2023 8:57:06 AM
+545$Huyện Quảng Trạch$$0.08$III$46$3/22/2023 2:15:05 AM
+546$Huyện Lệ Thủy$xã Ngư Thủy Bắc, xã Ngư Thủy, xã Sen Thủy$0.04$III$46$3/28/2023 8:57:06 AM
+547$Huyện Lệ Thủy$các địa danh hành chính còn lại$0.04$II$46$3/28/2023 8:57:07 AM
+548$Huyện Tuyên Hóa$$0.08$II$46$3/22/2023 2:15:05 AM
+549$Thành phố Tam Kỳ$$0.08$III$47$3/22/2023 2:15:05 AM
+550$Huyện Nam Giang$$0.04$I$47$3/22/2023 2:15:05 AM
+551$Thành phố Hội An$$0.04$III$47$3/22/2023 2:15:05 AM
+552$Huyện Nông Sơn$$0.06$II$47$3/22/2023 2:15:05 AM
+553$Thị xã Điện Bàn$$0.04$III$47$3/22/2023 2:15:05 AM
+554$Huyện Núi Thành$$0.06$III$47$3/22/2023 2:15:05 AM
+555$Huyện Bắc Trà My$xã Trà Bui, xã Trà Đốc, xã Trà Sơn, xã Trà Tân$0.06$I$47$3/28/2023 8:57:07 AM
+556$Huyện Bắc Trà My$các địa danh hành chính còn lại$0.06$II$47$3/28/2023 8:57:07 AM
+557$Huyện Phú Ninh$Thị trấn Phú Thịnh, xã Tam Lãnh, xã Tam Lộc, xã Tam Dân, xã Tam Vinh, xã Tam Phước, xã Tam Thái$0.08$II$47$3/28/2023 8:57:07 AM
+558$Huyện Phú Ninh$các địa danh hành chính còn lại$0.08$III$47$3/28/2023 8:57:07 AM
+559$Huyện Duy Xuyên$xã Duy Sơn, xã Duy Phú, xã Duy Hòa, xã Duy Trinh, xã Duy Châu, xã Duy Thu, xã Duy Tân$0.04$II$47$3/28/2023 8:57:08 AM
+560$Huyện Duy Xuyên$các địa danh hành chính còn lại$0.04$III$47$3/28/2023 8:57:08 AM
+561$Huyện Phước Sơn$$0.1$I$47$3/22/2023 2:15:05 AM
+562$Huyện Đại Lộc$$0.04$II$47$3/22/2023 2:15:05 AM
+563$Huyện Quế Sơn$thị trấn Hương An, xã Quế Mỹ, xã Quế Phú, xã Quế Xuân 1, xã Quế Xuân 2$0.08$III$47$3/28/2023 8:57:08 AM
+564$Huyện Quế Sơn$các địa danh hành chính còn lại$0.08$II$47$3/28/2023 8:57:08 AM
+565$Huyện Đông Giang$$0.04$I$47$3/22/2023 2:15:05 AM
+566$Huyện Tây Giang$$0.06$I$47$3/22/2023 2:15:05 AM
+567$Huyện Hiệp Đức$$0.1$II$47$3/22/2023 2:15:05 AM
+568$Huyện Thăng Bình$$0.06$III$47$3/22/2023 2:15:05 AM
+569$Huyện Nam Trà My$$0.06$I$47$3/22/2023 2:15:05 AM
+570$Huyện Tiên Phước$$0.06$II$47$3/22/2023 2:15:05 AM
+571$Thành phố Quảng Ngãi$$0.08$III$48$3/22/2023 2:15:05 AM
+572$Huyện Nghĩa Hành$$0.06$III$48$3/22/2023 2:15:05 AM
+573$Huyện Ba Tơ$$0.1$II$48$3/22/2023 2:15:05 AM
+574$Huyện Sơn Hà$$0.06$II$48$3/22/2023 2:15:05 AM
+575$Huyện Bình Sơn$$0.08$III$48$3/22/2023 2:15:05 AM
+576$Huyện Sơn Tây$xã Sơn Lập, xã Sơn Tân, xã Sơn Màu, xã Sơn Tinh$0.04$II$48$3/28/2023 8:57:09 AM
+577$Huyện Sơn Tây$các địa danh hành chính còn lại$0.04$I$48$3/28/2023 8:57:09 AM
+578$Huyện Đức Phổ$$0.1$III$48$3/22/2023 2:15:05 AM
+579$Huyện Sơn Tịnh$$0.08$III$48$3/22/2023 2:15:05 AM
+580$Huyện Lý Sơn$$0.08$III$48$3/22/2023 2:15:05 AM
+581$Huyện Tây Trà$$0.08$III$48$3/22/2023 2:15:05 AM
+582$Huyện Minh Long$$0.06$II$48$3/22/2023 2:15:05 AM
+583$Huyện Trà Bồng$$0.08$II$48$3/22/2023 2:15:05 AM
+584$Huyện Mộ Đức$$0.06$III$48$3/22/2023 2:15:05 AM
+585$Huyện Tư Nghĩa$$0.08$III$48$3/22/2023 2:15:05 AM
+586$Thành phố Hạ Long$$0.1$III$49$3/22/2023 2:15:05 AM
+587$Thành phố Móng Cái$$0.06$III$49$3/22/2023 2:15:05 AM
+588$Thành phố Cẩm Phả$$0.08$III$49$3/22/2023 2:15:05 AM
+589$Thành phố Uông Bí$$0.12$III$49$3/22/2023 2:15:05 AM
+590$Thị xã Quảng Yên$$0.12$IV$49$3/22/2023 2:15:05 AM
+591$Huyện Đông Triều$$0.12$III$49$3/22/2023 2:15:05 AM
+592$Huyện Ba Chẽ$$0.1$III$49$3/22/2023 2:15:05 AM
+593$Huyện Hải Hà$$0.04$III$49$3/22/2023 2:15:05 AM
+594$Huyện Bình Liêu$$0.04$II$49$3/22/2023 2:15:05 AM
+595$Huyện Tiên Yên$$0.06$III$49$3/22/2023 2:15:05 AM
+596$Huyện Cô Tô$$0.02$IV$49$3/22/2023 2:15:05 AM
+597$Huyện Vân Đồn$$0.06$III$49$3/22/2023 2:15:05 AM
+598$Huyện Đầm Hà$$0.04$III$49$3/22/2023 2:15:05 AM
+599$Thành phố Đông Hà$$0.04$II$50$3/22/2023 2:15:05 AM
+600$Huyện Gio Linh$$0.04$III$50$3/22/2023 2:15:05 AM
+601$Thị xã Quảng Trị$$0.04$II$50$3/22/2023 2:15:05 AM
+602$Huyện Hướng Hóa$$0.04$I$50$3/22/2023 2:15:05 AM
+603$Huyện Cam Lộ$$0.04$II$50$3/22/2023 2:15:05 AM
+604$Huyện Hải Lăng$$0.04$II$50$3/22/2023 2:15:05 AM
+605$Huyện Cồn Cỏ$$0.06$III$50$3/22/2023 2:15:05 AM
+606$Huyện Triệu Phong$$0.04$III$50$3/22/2023 2:15:05 AM
+607$Huyện Đa Krông$$0.04$II$50$3/22/2023 2:15:05 AM
+608$Huyện Vĩnh Linh$$0.04$III$50$3/22/2023 2:15:05 AM
+609$Thành phố Sóc Trăng$$0.02$II$51$3/22/2023 2:15:05 AM
+610$Huyện Long Phú$$0.04$II$51$3/22/2023 2:15:05 AM
+611$Thị xã Vĩnh Châu$$0.02$II$51$3/22/2023 2:15:05 AM
+612$Huyện Mỹ Tú$$0.02$II$51$3/22/2023 2:15:05 AM
+613$Thị xã Ngã Năm$$0.02$II$51$3/22/2023 2:15:05 AM
+614$Huyện Mỹ Xuyên$$0.02$II$51$3/22/2023 2:15:05 AM
+615$Huyện Châu Thành$$0.02$II$51$3/22/2023 2:15:05 AM
+616$Huyện Thạnh Trị$$0.02$II$51$3/22/2023 2:15:05 AM
+617$Huyện Cù Lao Dung$$0.04$II$51$3/22/2023 2:15:05 AM
+618$Huyện Trần Đề$$0.02$II$51$3/22/2023 2:15:05 AM
+619$Huyện Kế Sách$$0.04$II$51$3/22/2023 2:15:05 AM
+620$Thành phố Sơn La$$0.18$II$52$3/22/2023 2:15:05 AM
+621$Huyện Quỳnh Nhai$$0.12$II$52$3/22/2023 2:15:05 AM
+622$Huyện Bắc Yên$$0.08$II$52$3/22/2023 2:15:05 AM
+623$Huyện Sông Mã$$0.14$II$52$3/22/2023 2:15:05 AM
+624$Huyện Mai Sơn$$0.18$II$52$3/22/2023 2:15:05 AM
+625$Huyện Sốp Cộp$$0.12$II$52$3/22/2023 2:15:05 AM
+626$Huyện Mộc Châu$$0.22$II$52$3/22/2023 2:15:05 AM
+627$Huyện Thuận Châu$$0.22$II$52$3/22/2023 2:15:05 AM
+628$Huyện Mường La$$0.1$II$52$3/22/2023 2:15:05 AM
+629$Huyện Vân Hồ$$0.2$II$52$3/22/2023 2:15:05 AM
+630$Huyện Phù Yên$$0.08$II$52$3/22/2023 2:15:05 AM
+631$Huyện Yên Châu$$0.2$II$52$3/22/2023 2:15:05 AM
+632$Thành phố Tây Ninh$$0.04$I$53$3/22/2023 2:15:05 AM
+633$Huyện Hòa Thành$$0.04$I$53$3/22/2023 2:15:05 AM
+634$Huyện Bến Cầu$$0.06$I$53$3/22/2023 2:15:05 AM
+635$Huyện Tân Biên$$0.04$I$53$3/22/2023 2:15:05 AM
+636$Huyện Châu Thành$$0.04$I$53$3/22/2023 2:15:05 AM
+637$Huyện Tân Châu$$0.04$I$53$3/22/2023 2:15:05 AM
+638$Huyện Dương Minh Châu$$0.04$I$53$3/22/2023 2:15:05 AM
+639$Huyện Trảng Bàng$$0.04$I$53$3/22/2023 2:15:05 AM
+640$Huyện Gò Dầu$$0.04$I$53$3/22/2023 2:15:05 AM
+641$Thành phố Thái Bình$$0.12$IV$54$3/22/2023 2:15:05 AM
+642$Huyện Quỳnh Phụ$$0.06$IV$54$3/22/2023 2:15:05 AM
+643$Huyện Đông Hưng$$0.08$IV$54$3/22/2023 2:15:05 AM
+644$Huyện Thái Thụy$$0.06$IV$54$3/22/2023 2:15:05 AM
+645$Huyện Hưng Hà$$0.12$IV$54$3/22/2023 2:15:05 AM
+646$Huyện Tiền Hải$$0.08$IV$54$3/22/2023 2:15:05 AM
+647$Huyện Kiến Xương$$0.1$IV$54$3/22/2023 2:15:05 AM
+648$Huyện Vũ Thư$$0.12$IV$54$3/22/2023 2:15:05 AM
+649$Thành phố Thái Nguyên$$0.08$II$55$3/22/2023 2:15:05 AM
+650$Huyện Đồng Hỷ$thị trấn Trại Cau, xã Hợp Tiến, xã Nam Hoà, xã Tân Lợi$0.1$II$55$3/28/2023 8:57:09 AM
+651$Huyện Đồng Hỷ$các địa danh hành chính còn lại$0.1$I$55$3/28/2023 8:57:09 AM
+652$Thành phố Phổ Yên$$0.08$II$55$3/22/2023 2:15:05 AM
+653$Huyện Phú Bình$$0.06$II$55$3/22/2023 2:15:05 AM
+654$Thị xã Sông Công$$0.08$II$55$3/22/2023 2:15:05 AM
+655$Huyện Phú Lương$$0.1$I$55$3/22/2023 2:15:05 AM
+656$Huyện Đại Từ$$0.12$II$55$3/22/2023 2:15:05 AM
+657$Huyện Võ Nhai$$0.04$I$55$3/22/2023 2:15:05 AM
+658$Huyện Định Hóa$$0.04$II$55$3/22/2023 2:15:05 AM
+659$Thành phố Thanh Hóa$$0.14$IV$56$3/22/2023 2:15:05 AM
+660$Huyện Hậu Lộc$$0.2$IV$56$3/22/2023 2:15:05 AM
+661$Thành phố Sầm Sơn$$0.12$IV$56$3/22/2023 2:15:05 AM
+662$Huyện Hoằng Hóa$$0.2$IV$56$3/22/2023 2:15:05 AM
+663$Thị xã Bỉm Sơn$$0.18$IV$56$3/22/2023 2:15:05 AM
+664$Huyện Lang Chánh$$0.12$II$56$3/22/2023 2:15:05 AM
+665$Thị xã Nghi Sơn$$0.12$IV$56$3/22/2023 2:15:05 AM
+666$Huyện Mường Lát$$0.14$I$56$3/22/2023 2:15:05 AM
+667$Huyện Bá Thước$$0.18$II$56$3/22/2023 2:15:05 AM
+668$Huyện Nga Sơn$$0.16$IV$56$3/22/2023 2:15:05 AM
+669$Huyện Cẩm Thủy$$0.2$II$56$3/22/2023 2:15:05 AM
+670$Huyện Ngọc Lặc$$0.12$II$56$3/22/2023 2:15:05 AM
+671$Huyện Đông Sơn$$0.12$III$56$3/22/2023 2:15:05 AM
+672$Huyện Như Thanh$$0.12$II$56$3/22/2023 2:15:05 AM
+673$Huyện Hà Trung$xã Hà Hải, xã Lĩnh Toại, xã Hà Vinh$0.22$IV$56$3/28/2023 8:57:09 AM
+674$Huyện Hà Trung$các địa danh hành chính còn lại$0.22$III$56$3/28/2023 8:57:10 AM
+675$Huyện Như Xuân$$0.1$II$56$3/22/2023 2:15:05 AM
+676$Huyện Nông Cống$$0.12$III$56$3/22/2023 2:15:05 AM
+677$Huyện Triệu Sơn$$0.12$III$56$3/22/2023 2:15:05 AM
+678$Huyện Quan Hóa$$0.14$I$56$3/22/2023 2:15:05 AM
+679$Huyện Thường Xuân$$0.12$II$56$3/22/2023 2:15:05 AM
+680$Huyện Quan Sơn$$0.1$I$56$3/22/2023 2:15:05 AM
+681$Huyện Thọ Xuân$thị trấn Lam Sơn, Thị trấn Sao Vàng, xã Quảng Phú, xã Thọ Diên, xã Thọ Hải, xã Thọ Lâm, xã Thọ Lập, xã Thuận Minh, xã Thọ Xương, xã Xuân Bái, xã Xuân Hòa, xã Xuân Hưng, xã Xuân Phú, xã Xuân Thiên, xã Xuân Tín$0.12$II$56$3/28/2023 8:57:10 AM
+682$Huyện Thọ Xuân$các địa danh hành chính còn lại$0.12$III$56$3/28/2023 8:57:10 AM
+683$Huyện Quảng Xương$thị trấn Tân Phong, xã Quảng Hòa, xã Quảng Hợp, xã Quảng Long, xã Quảng Ngọc, xã Quảng Phúc, xã Quảng Trạch, xã Quảng Văn, xã Quảng Yên$0.12$III$56$3/28/2023 8:57:10 AM
+684$Huyện Quảng Xương$các địa danh hành chính còn lại$0.12$IV$56$3/28/2023 8:57:11 AM
+685$Huyện Vĩnh Lộc$$0.22$III$56$3/22/2023 2:15:05 AM
+686$Huyện Thạch Thành$$0.2$III$56$3/22/2023 2:15:05 AM
+687$Huyện Yên Định$$0.18$III$56$3/22/2023 2:15:05 AM
+688$Huyện Thiệu Hóa$$0.14$III$56$3/22/2023 2:15:05 AM
+689$Thành phố Huế$$0.06$II$57$3/22/2023 2:15:05 AM
+690$Huyện Phong Điền$$0.06$III$57$3/22/2023 2:15:05 AM
+691$Thị xã Hương Thủy$$0.08$II$57$3/22/2023 2:15:05 AM
+692$Huyện Phú Lộc$thị trấn Phú Lộc, xã Lộc Điền, xã Lộc Trì, xã Xuân Lộc, xã Lộc Hoà, xã Lộc Bổn, xã Lộc An, xã Lộc Sơn, xã Vinh Hưng$0.04$II$57$3/28/2023 8:57:11 AM
+693$Huyện Phú Lộc$các địa danh hành chính còn lại$0.04$III$57$3/28/2023 8:57:11 AM
+694$Thị xã Hương Trà$$0.06$II$57$3/22/2023 2:15:05 AM
+695$Huyện Phú Vang$$0.08$III$57$3/22/2023 2:15:05 AM
+696$Huyện A Lưới$$0.04$I$57$3/22/2023 2:15:05 AM
+697$Huyện Quảng Điền$$0.06$III$57$3/22/2023 2:15:05 AM
+698$Huyện Nam Đông$xã Thượng Lộ, xã Hương Phú, xã Hương Lộc$0.08$II$57$3/28/2023 8:57:11 AM
+699$Huyện Nam Đông$các địa danh hành chính còn lại$0.08$I$57$3/28/2023 8:57:11 AM
+700$Thành phố Mỹ Tho$$0.02$II$58$3/22/2023 2:15:05 AM
+701$Huyện Chợ Gạo$$0.02$II$58$3/22/2023 2:15:05 AM
+702$Thị xã Cai Lậy$$0.02$II$58$3/22/2023 2:15:05 AM
+703$Huyện Gò Công Tây$$0.04$II$58$3/22/2023 2:15:05 AM
+704$Thị xã Gò Công$$0.04$II$58$3/22/2023 2:15:05 AM
+705$Huyện Gò Công Đông$$0.04$II$58$3/22/2023 2:15:05 AM
+706$Huyện Cái Bè$$0.02$II$58$3/22/2023 2:15:05 AM
+707$Huyện Tân Phước$$0.02$II$58$3/22/2023 2:15:05 AM
+708$Huyện Cai Lậy$$0.02$II$58$3/22/2023 2:15:05 AM
+709$Huyện Tân Phú Đông$$0.04$II$58$3/22/2023 2:15:05 AM
+710$Huyện Châu Thành$$0.02$II$58$3/22/2023 2:15:05 AM
+711$Thành phố Trà Vinh$$0.02$II$59$3/22/2023 2:15:05 AM
+712$Huyện Châu Thành$$0.02$II$59$3/22/2023 2:15:05 AM
+713$Thị xã Duyên Hải$$0.04$II$59$3/22/2023 2:15:05 AM
+714$Huyện Duyên Hải$$0.04$II$59$3/22/2023 2:15:05 AM
+715$Huyện Càng Long$$0.02$II$59$3/22/2023 2:15:05 AM
+716$Huyện Trà Cú$$0.04$II$59$3/22/2023 2:15:05 AM
+717$Huyện Cầu Kè$$0.04$II$59$3/22/2023 2:15:05 AM
+718$Huyện Tiểu Cần$$0.04$II$59$3/22/2023 2:15:05 AM
+719$Huyện Cầu Ngang$$0.02$II$59$3/22/2023 2:15:05 AM
+720$Thành phố Tuyên Quang$$0.06$II$60$3/22/2023 2:15:05 AM
+721$Huyện Na Hang$$0.04$II$60$3/22/2023 2:15:05 AM
+722$Huyện Chiêm Hóa$$0.04$II$60$3/22/2023 2:15:05 AM
+723$Huyện Sơn Dương$$0.06$I$60$3/22/2023 2:15:05 AM
+724$Huyện Hàm Yên$$0.06$II$60$3/22/2023 2:15:05 AM
+725$Huyện Yên Sơn$$0.08$II$60$3/22/2023 2:15:05 AM
+726$Huyện Lâm Bình$$0.04$II$60$3/22/2023 2:15:05 AM
+727$Thành phố Vĩnh Long$$0.02$II$61$3/22/2023 2:15:05 AM
+728$Huyện Tam Bình$$0.04$II$61$3/22/2023 2:15:05 AM
+729$Thị xã Bình Minh$$0.04$II$61$3/22/2023 2:15:05 AM
+730$Huyện Trà Ôn$$0.04$II$61$3/22/2023 2:15:05 AM
+731$Huyện Long Hồ$$0.02$II$61$3/22/2023 2:15:05 AM
+732$Huyện Vũng Liêm$$0.02$II$61$3/22/2023 2:15:05 AM
+733$Huyện Mang Thít$$0.02$II$61$3/22/2023 2:15:05 AM
+734$Huyện Bình Tân$$0.04$II$61$3/22/2023 2:15:05 AM
+735$Thành phố Vĩnh Yên$$0.1$II$62$3/22/2023 2:15:05 AM
+736$Huyện Tam Dương$$0.08$II$62$3/22/2023 2:15:05 AM
+737$Thành phố Phúc Yên$$0.08$II$62$3/22/2023 2:15:05 AM
+738$Huyện Tam Đảo$$0.08$II$62$3/22/2023 2:15:05 AM
+739$Huyện Bình Xuyên$$0.08$II$62$3/22/2023 2:15:05 AM
+740$Huyện Vĩnh Tường$$0.14$II$62$3/22/2023 2:15:05 AM
+741$Huyện Lập Thạch$$0.1$II$62$3/22/2023 2:15:05 AM
+742$Huyện Yên Lạc$$0.12$II$62$3/22/2023 2:15:05 AM
+743$Huyện Sông Lô$$0.12$II$62$3/22/2023 2:15:05 AM
+744$Thành phố Yên Bái$$0.14$II$63$3/22/2023 2:15:05 AM
+745$Huyện Trấn Yên$$0.14$II$63$3/22/2023 2:15:05 AM
+746$Thị xã Nghĩa Lộ$$0.08$II$63$3/22/2023 2:15:05 AM
+747$Huyện Văn Chấn$thị trấn Nông trường Liên Sơn, xã Cát Thịnh, xã Gia Hội, xã Nậm Búng, xã Nậm Lành, xã Nghĩa Sơn, xã Sơn Lương, xã Sơn Thịnh, xã Tú Lệ$0.08$II$63$3/28/2023 8:57:12 AM
+748$Huyện Văn Chấn$các địa danh hành chính còn lại$0.08$I$63$3/28/2023 8:57:12 AM
+749$Huyện Lục Yên$$0.1$I$63$3/22/2023 2:15:05 AM
+750$Huyện Văn Yên$$0.14$I$63$3/22/2023 2:15:05 AM
+751$Huyện Mù Cang Chải$$0.08$II$63$3/22/2023 2:15:05 AM
+752$Huyện Yên Bình$$0.14$II$63$3/22/2023 2:15:05 AM
+753$Huyện Trạm Tấu$$0.08$II$63$3/22/2023 2:15:05 AM
